@@ -357,18 +357,6 @@ docker run -p 8000:8000 --env-file .env healthdesk-ai
 - **v2.1.0** – Predict Disease (latest)
 - **v1.3.0** – Medical Bot (latest)
 
-## 📄 License
-
-[Specify your license here]
-
-## 👥 Contributing
-
-[Add contribution guidelines here]
-
-## 📧 Support
-
-For issues, questions, or contributions, please [contact information/issue tracker].
-
 ---
 
 **Built with ❤️ for better healthcare accessibility**
