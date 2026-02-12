@@ -1,0 +1,26 @@
+fastapi
+uvicorn[standard]
+
+# predict-disease
+pandas
+scikit-learn
+lightgbm
+joblib
+
+# medical-bot
+langchain-pinecone
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+groq
+pinecone
+langchain-google-genai
+
+# medreach
+requests
+python-multipart
+python-dotenv
+langchain
+langchain-google-genai
